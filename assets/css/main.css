@@ -4822,10 +4822,10 @@ a img {
 
 #particles-js {
     background: #0066cc;
-    /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #42275a, #734b6d);
+    /* fallback for old browsers #42275a, #734b6d */ 
+    background: -webkit-linear-gradient(to right, #02aab0 , #00cdac);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #42275a, #734b6d);
+    background: linear-gradient(to right, #02aab0, #00cdac);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
     display: flex;
